@@ -1,0 +1,74 @@
+[
+    {
+        "name": "C",
+        "Cid": 1,
+        "Duration": "5 Months",
+        "Instructor": "Rahim",
+        "Price": 21000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGGOif2hN0ojHqVg2OZDQgERhHVD70MoaDg&usqp=CAU"
+    },
+    {
+        "name": "C plus plus",
+        "Cid": 2,
+        "Duration": "6 Months",
+        "Instructor": "Mahim",
+        "Price": 22000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggnWOHditMP1qlVy0wFSYTamZTgs5c_emyg&usqp=CAU"
+    },
+    {
+        "name": "C#",
+        "Cid": 3,
+        "Duration": "7 Months",
+        "Instructor": "Matin",
+        "Price": 24000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZzGtPG3c7thDt923NBzsxpco9xPZKlEugA&usqp=CAU"
+    },
+    {
+        "name": "Java",
+        "Cid": 4,
+        "Duration": "9 Months",
+        "Instructor": "Karim",
+        "Price": 28000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NkHVCdQ8j003gxChxXIDHEOivCDDNRE7pg&usqp=CAU"
+    },
+    {
+        "name": "JavaScript",
+        "Cid": 5,
+        "Duration": "8 Months",
+        "Instructor": "Mahboob",
+        "Price": 29000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZX7tUyqyYMKb_Vm-szRiqKjbhuElrTqkxOQ&usqp=CAU"
+    },
+    {
+        "name": "Go",
+        "Cid": 6,
+        "Duration": "6 Months",
+        "Instructor": "Roni",
+        "Price": 22000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSz5VDIJCl3HuDXKsvoRr_w8G0ObBWUBlO4w&usqp=CAU"
+    },
+    {
+        "name": "Python",
+        "Cid": 7,
+        "Duration": "6 Months",
+        "Instructor": "Shohan",
+        "Price": 21000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI51K7g7y-29i-6pzS9fS4rnLex5n8szC9Dw&usqp=CAU"
+    },
+    {
+        "name": "Ruby",
+        "Cid": 8,
+        "Duration": "6 Months",
+        "Instructor": "Nazim",
+        "Price": 27000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAA9YwmYRD9iOAape-U-S13X1QtCHSwuKog&usqp=CAU"
+    },
+    {
+        "name": "Swift",
+        "Cid": 9,
+        "Duration": "7 Months",
+        "Instructor": "Nayim",
+        "Price": 29000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyY_bAvT7Vi_La0_ajod9MzbdriNDpPqcog&usqp=CAU"
+    }
+]
